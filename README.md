@@ -1,2 +1,3 @@
-xxx.github.com
+xxx.github.io
+
 personal page
